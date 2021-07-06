@@ -1,0 +1,572 @@
+;Execution;Link;Last Name;First Name;TDCJNumber;Age;Date;Race;County
+0;571;Last Statement;Jones;Quintin;999379;41;5/19/2021;Black; Tarrant
+1;570;Last Statement;Wardlow;Billy;999137;45;7/8/2020;White; Titus
+2;569;Last Statement;Ochoa;Abel;999450;47;2/6/2020;Hispanic; Dallas
+3;568;Last Statement;Gardner;John;999516;64;1/15/2020;White; Collin
+4;567;Last Statement;Runnels;Travis;999505;46;12/11/2019;Black;Potter
+5;566;Last Statement;Hall;Justen;999497;38;11/6/2019;White ;El Paso
+6;565;Last Statement;Sparks;Robert;999542;45;9/25/2019;Black;Dallas
+7;564;Last Statement;Soliz;Mark;999571;37;9/10/2019;Hispanic;Johnson
+8;563;Last Statement;Crutsinger;Billy;999459;64;9/4/2019;White;Tarrant
+9;562;Last Statement;Swearingen;Larry;999361;48;8/21/2019;White;Montgomery
+10;561;Last Statement;King;John;999295;44;4/24/2019;White;Jasper
+11;560;Last Statement;Coble;Billie;976;70;2/28/2019;White;McLennan
+12;559;Last Statement;Jennings;Robert;956;61;1/30/2019;Black;Harris
+13;558;Last Statement;Braziel, Jr.;Alvin;999393;43;12/11/2018;Black;Dallas
+14;557;Last Statement;Garcia;Joseph;999441;47;12/04/2018;Hispanic;Dallas
+15;556;Last Statement;Ramos;Robert;999062;64;11/14/2018;Hispanic;Hidalgo
+16;555;Last Statement;Acker;Daniel;999381;46;9/27/2018;White;Hopkins
+17;554;Last Statement;Clark;Troy;999351;51;9/26/2018;White;Smith
+18;553;Last Statement;Young;Christopher;999508;34;7/17/2018;Black;Bexar
+19;552;Last Statement;Bible;Danny;999455;66;6/27/2018;White;Harris
+20;551;Last Statement;Castillo;Juan;999502;37;5/16/2018;Hispanic;Bexar
+21;550;Last Statement;Davila;Erick;999545;31;4/25/2018;Black;Tarrant
+22;549;Last Statement;Rodriguez, III;Rosendo;999534;38;3/27/2018;Hispanic;Lubbock
+23;548;Last Statement;Battaglia;John;999412;62;2/1/2018;White;Dallas
+24;547;Last Statement;Rayford;William;999371;64;1/30/2018;Black;Dallas
+25;546;Last Statement;Shore;Anthony;999488;55;1/18/2018;White;Harris
+26;545;Last Statement;Cardenas;Ruben;999275;47;11/08/2017;Hispanic;Hidalgo
+27;544;Last Statement;Pruett;Robert;999411;38;10/12/2017;White;Bee
+28;543;Last Statement;Preyor;Taichin;999494;46;7/27/2017;Black;Bexar
+29;542;Last Statement;Bigby;James;997;61;3/14/2017;White;Tarrant
+30;541;Last Statement;Ruiz;Rolando;999145;44;3/07/2017;Hispanic;Bexar
+31;540;Last Statement;Edwards;Terry;999463;43;1/26/2017;Black;Dallas
+32;539;Last Statement;Wilkins;Christopher;999533;48;01/11/2017;White;Tarrant
+33;538;Last Statement;Fuller;Barney;999481;58;10/05/2016;White;Houston
+34;537;Last Statement;Vasquez;Pablo;999297;38;04/06/2016;Hispanic;Hidalgo
+35;536;Last Statement;Ward;Adam;999525;33;03/22/2016;White;Hunt
+36;535;Last Statement;Wesbrook;Coy;999281;58;03/09/2016;White;Harris
+37;534;Last Statement;Garcia;Gustavo;999018;43;02/16/2016;Hispanic;Collin
+38;533;Last Statement;Freeman;James;999539;35;01/27/2016;White;Wharton
+39;532;Last Statement;Masterson;Richard;999414;43;01/20/2016;White;Harris
+40;531;Last Statement;Holiday;Raphael;999419;36;11/18/2015;Black;Madison
+41;530;Last Statement;Escamilla;Licho;999432;33;10/14/2015;Hispanic;Dallas
+42;529;Last Statement;Garcia ;Juan;999360;35;10/6/2015;Hispanic ;Harris
+43;528;Last Statement;Lopez;Daniel;999555;27;08/12/2015;Hispanic;Nueces
+44;527;Last Statement;Russeau;Gregory;999430;46;06/18/2015;Black;Smith
+45;526;Last Statement;Bower;Lester;764;67;06/03/2015;White;Grayson
+46;525;Last Statement;Charles;Derrick;999451;32;05/12/2015;Black;Harris
+47;524;Last Statement;Garza;Manuel;999434;34;04/15/2015;Hispanic;Bexar
+48;523;Last Statement;Sprouse;Kent;999471;42;04/09/2015;White;Ellis
+49;522;Last Statement;Vasquez;Manuel;999336;46;03/11/2015;Hispanic;Bexar
+50;521;Last Statement;Newbury;Donald;999403;53;02/04/2015;White;Dallas
+51;520;Last Statement;Ladd;Robert;999237;57;01/29/2015;Black;Smith
+52;519;Last Statement;Prieto;Arnold;999149;42;01/21/2015;Hispanic;Bexar
+53;518;Last Statement;Paredes;Miguel;999400;32;10/28/2014;Hispanic;Bexar
+54;517;Last Statement;Coleman;Lisa;999511;38;09/17/2014;Black;Tarrant
+55;516;Last Statement;Trottie;Willie;999085;45;09/10/2014;Black;Harris
+56;515;Last Statement;Villegas;Jose;999417;39;04/16/2014;Hispanic;Nueces
+57;514;Last Statement;Hernandez;Ramiro;999342;44;04/09/2014;Hispanic;Kerr
+58;513;Last Statement;Sells;Tommy;999367;49;04/03/2014;White;Val Verde
+59;512;Last Statement;Doyle;Anthony;999478;29;03/27/2014;Black;Dallas
+60;511;Last Statement;Jasper;Ray;999341;33;03/19/2014;Black;Bexar
+61;510;Last Statement;Basso;Suzanne;999329;59;02/05/2014;White;Harris
+62;509;Last Statement;Tamayo;Edgar;999130;46;01/22/2014;Hispanic;Harris
+63;508;Last Statement;Martin;Jerry;999552;43;12/03/2013;White;Leon
+64;507;Last Statement;McCoskey;Jamie;999053;49;11/12/2013;White;Harris
+65;506;Last Statement;Yowell;Michael;999334;43;10/09/2013;White ;Lubbock
+66;505;Last Statement;Diaz;Arturo;999345;37;09/26/2013;Hispanic;Hidalgo
+67;504;Last Statement;Garza;Robert;999466;30;09/19/2013;Hispanic;Hidalgo
+68;503;Last Statement;Feldman;Douglas;999326;55;07/31/2013;White;Dallas
+69;502;Last Statement;Ross;Vaughn;999429;41;07/18/2013;Black;Lubbock
+70;501;Last Statement;Quintanilla;John;999491;36;07/16/2013;Hispanic;Victoria
+71;500;Last Statement;McCarthy;Kimberly;999287;52;06/26/2013;Black;Dallas
+72;499;Last Statement;Chester;Elroy;999280;43;06/12/2013;Black;Jefferson
+73;498;Last Statement;Williams;Jefferey;999350;37;05/15/2013;Black;Harris
+74;497;Last Statement;Parr;Carroll;999479;35;05/07/2013;Black;McLennan
+75;496;Last Statement;Cobb;Richard;999467;29;04/25/2013;White;Cherokee
+76;495;Last Statement;Threadgill;Ronnie;999424;40;04/16/2013;Black;Navarro
+77;494;Last Statement;Lewis;Ricky;999097;50;04/09/2013;Black;Smith
+78;493;Last Statement;Blue;Carl;999151;48;02/21/2013;Black;Brazos
+79;492;Last Statement;Hughes;Preston;939;46;11/15/2012;Black;Harris
+80;491;Last Statement;Hernandez;Ramon;999431;41;11/14/2012;Hispanic;Bexar
+81;490;Last Statement;Swain;Mario;999475;33;11/08/2012;Black;Gregg
+82;489;Last Statement;Roberts, Jr.;Donnie;999487;41;10/31/2012;White;Polk
+83;488;Last Statement;Hines;Bobby;999025;40;10/24/2012;White;Dallas
+84;487;Last Statement;Green;Jonathan;999421;44;10/10/2012;Black;Montgomery
+85;486;Last Statement;Foster;Cleve;999470;48;09/25/2012;White;Tarrant
+86;485;Last Statement;Harris;Robert;999364;40;09/20/2012;Black;Dallas
+87;484;Last Statement;Wilson;Marvin;999098;54;08/07/2012;Black;Jefferson
+88;483;Last Statement;Hearn;Yokamon;999292;33;07/18/2012;Black;Dallas
+89;482;Last Statement;Adams;Beunka;999486;29;04/26/2012;Black;Cherokee
+90;481;Last Statement;Hernandez;Jesse;999425;47;03/28/2012;Hispanic;Dallas
+91;480;Last Statement;Thurmond;Keith;999435;52;03/07/2012;White;Montgomery
+92;479;Last Statement;Rivas;George;999394;41;02/29/2012;Hispanic;Dallas
+93;478;Last Statement;Hernandez;Rodrigo;999474;38;01/26/2012;Hispanic;Bexar
+94;477;Last Statement;Esparza;Guadalupe;999385;46;11/16/2011;Hispanic;Bexar
+95;476;Last Statement ;Garcia;Frank;999418;39;10/27/2011;Hispanic;Bexar
+96;475;Last Statement;Brewer;Lawrence;999327;44;09/21/2011;White;Brazos
+97;474;Last Statement;Woods;Steven;999427;31;09/13/2011;White;Denton
+98;473;Last Statement;Robles;Martin;999457;33;08/10/2011;Hispanic;Nueces
+99;472;Last Statement;Stroman;Mark;999409;42;07/20/2011;White;Dallas
+100;471;Last Statement;Leal;Humberto;999162;38;07/07/2011;Hispanic;Bexar
+101;470;Last Statement;Mathis;Milton;999337;32;06/21/2011;Black;Fort Bend
+102;469;Last Statement;Taylor;Lee;999344;32;06/16/2011;White;Bowie
+103;468;Last Statement;Bradford;Gayland;966;42;06/01/2011;Black;Dallas
+104;467;Last Statement;Kerr;Cary;999449;46;05/03/2011;White;Tarrant
+105;466;Last Statement;Adams;Timothy;999448;42;02/22/2011;Black;Harris
+106;465;Last Statement;Hall;Michael;999346;31;02/15/2011;White;Tarrant
+107;464;Last Statement;Wooten;Larry;999269;51;10/21/2010;Black;Lamar
+108;463;Last Statement;Cantu;Peter;999093;35;08/17/2010;Hispanic;Harris
+109;462;Last Statement;Jackson;Derrick;999263;42;07/20/2010;Black;Harris
+110;461;Last Statement;Perry;Michael;999444;28;07/01/2010;White;Montgomery
+111;460;Last Statement;Powell;David;612;59;06/15/2010;White;Travis
+112;459;Last Statement;Jones;George;999147;36;06/02/2010;Black;Dallas
+113;458;Last Statement;Alba;John;999027;54;05/25/2010;Hispanic;Collin
+114;457;Last Statement;Cannady;Rogelio;999245;37;05/19/2010;Hispanic;Bee
+115;456;Last Statement;Galloway;Billy;999349;41;05/13/2010;White;Hunt
+116;455;Last Statement;Varga;Kevin;999368;41;05/12/2010;White;Hunt
+117;454;Last Statement;Bustamante;Samuel;999380;40;04/27/2010;Hispanic;Fort Bend 
+118;453;Last Statement;Berkley;William;999422;31;04/22/2010;White;El Paso 
+119;452;Last Statement;Alix;Franklin;999286;34;03/30/2010;Black;Harris
+120;451;Last Statement;Maxwell;Joshua;999408;31;03/11/2010;White;Bexar
+121;450;Last Statement;Sigala;Michael;999397;32;03/02/2010;Hispanic;Collin
+122;449;Last Statement;Johnson;Gary;911;59;01/12/2010;White;Walker
+123;448;Last Statement;Mosley;Kenneth;999243;51;01/07/2010;Black;Dallas
+124;447;Last Statement;Woods;Bobby;999270;44;12/03/2009;White;Llano
+125;446;Last Statement;Thompson;Robert;999276;34;11/19/2009;Black;Harris
+126;445;Last Statement;Simpson;Danielle;999370;30;11/18/2009;Black;Anderson
+127;444;Last Statement;Valle;Yosvanis;999384;34;11/10/2009;Hispanic;Harris
+128;443;Last Statement;Oliver;Khristian;999301;32;11/05/2009;White;Nacogdoches
+129;442;Last Statement;Blanton;Reginald;999395;28;10/27/2009;Black;Bexar
+130;441;Last Statement;Coleman;Christopher;999239;37;09/22/2009;Black;Harris
+131;440;Last Statement;Moody;Stephen;999076;52;09/16/2009;White;Harris
+132;439;Last Statement;Hankins;Terry;999415;34;06/02/2009;White;Tarrant
+133;438;Last Statement;Riley;Michael;851;51;05/19/2009;Black;Wood
+134;437;Last Statement;Johnson;Derrick;999339;28;04/30/2009;Black;Dallas
+135;436;Last Statement;Rosales;Michael;999274;35;04/15/2009;Hispanic;Lubbock
+136;435;Last Statement;Salazar;Luis;999285;38;03/11/2009;Hispanic;Bexar
+137;434;Last Statement;Martinez;James;999404;34;03/10/2009;Hispanic;Tarrant
+138;433;Last Statement;Morris;Kenneth;999117;38;03/04/2009;Black;Harris
+139;432;Last Statement;Pondexter;Willie;999111;34;03/03/2009;Black;Red River
+140;431;Last Statement;Johnson;Johnny;999197;51;02/12/2009;Black;Harris
+141;430;Last Statement;Scheanette;Dale;999440;35;02/10/2009;Black;Tarrant
+142;429;Last Statement;Martinez;David;999173;36;02/04/2009;Hispanic;Bexar
+143;428;Last Statement;Ortiz;Ricardo;999320;46;01/29/2009;Hispanic;El Paso 
+144;427;Last Statement;Martinez;Virgil;999265;41;01/28/2009;Hispanic;Brazoria
+145;426;Last Statement;Perkins;Reginald;999407;53;01/22/2009;Black;Tarrant
+146;425;Last Statement;Moore;Frank;999210;49;01/21/2009;Black;Bexar
+147;424;Last Statement;Moore;Curtis;999212;40;01/14/2009;Black;Tarrant
+148;423;Last Statement;Hudson;Robert;999353;45;11/20/2008;Black;Dallas
+149;422;Last Statement;Manns;Denard;999405;42;11/13/2008;Black;Bell
+150;421;Last Statement;Whitaker, III ;George;999196;36;11/12/2008;Black;Harris
+151;420;Last Statement;Taylor;Elkie;999112;46;11/6/2008;Black;Tarrant
+152;419;Last Statement ;Wright;Gregory;999253;42;10/30/2008;White;Dallas
+153;418;Last Statement;Nenno;Eric;999188;45;10/28/2008;White;Harris
+154;417;Last Statement;Ries;Joseph;999335;29;10/21/2008;White;Hopkins
+155;416;Last Statement;Watts;Kevin;999456;27;10/16/2008;Black;Bexar
+156;415;Last Statement;Kelly;Alvin;999012;57;10/14/2008;White;Gregg
+157;414;Last Statement;Murray;William;999313;39;09/17/2008;White;Kaufman
+158;413;Last Statement;Rodriguez;Michael;999413;40;08/14/2008;Hispanic;Dallas
+159;412;Last Statement;Dorsey;Leon;999359;32;08/12/2008;Black;Dallas
+160;411;Last Statement;Chi;Heliberto;999437;29;08/07/2008;Hispanic;Tarrant
+161;410;Last Statement;Medellin;Jose;999134;33;08/05/2008;Hispanic;Harris
+162;409;Last Statement;Davis;Larry;999316;40;07/31/2008;Black;Potter
+163;408;Last Statement;Sonnier;Derrick;999054;40;07/23/2008;Black;Harris
+164;407;Last Statement;Turner;Carlton;999321;29;07/10/2008;Black;Dallas
+165;406;Last Statement;Chamberlain;Karl;999241;37;06/11/2008;White;Dallas
+166;405;Last Statement;Richard;Michael;890;48;09/25/2007;Black;Harris
+167;404;Last Statement;Kimmel;Clifford;999347;32;09/20/2007;White;Bexar
+168;403;Last Statement;Roach;Tony;999323;30;09/05/2007;White;Potter
+169;402;Last Statement;Amador;John;999160;32;08/29/2007;Hispanic;Bexar
+170;401;Last Statement;Mosley;Daroyce;999171;32;08/28/2007;Black;Gregg
+171;400;Last Statement;Conner;Johnny;999324;32;08/22/2007;Black;Harris
+172;399;Last Statement;Parr;Kenneth;999312;27;08/15/2007;Black;Matagorda
+173;398;Last Statement;Johnson;Lonnie;999135;44;07/24/2007;Black;Harris
+174;397;Last Statement;Knight;Patrick;999072;39;06/26/2007;White;Randall
+175;396;Last Statement;Reyes;Gilberto;999352;33;06/21/2007;Hispanic;Bailey
+176;395;Last Statement;Rodriguez;Lionell;999002;36;06/20/2007;Hispanic;Harris
+177;394;Last Statement;Griffith;Michael;999176;56;06/06/2007;White;Harris
+178;393;Last Statement;Smith;Charles;953;41;05/16/2007;White;Pecos
+179;392;Last Statement;Dickson;Ryan;999250;30;04/26/2007;White;Potter
+180;391;Last Statement;Clark;James;999095;38;04/11/2007;White;Denton
+181;390;Last Statement;Pippin;Roy;999170;51;03/29/2007;White;Harris
+182;389;Last Statement;Gutierrez;Vincent;999262;28;03/28/2007;Hispanic;Bexar
+183;388;Last Statement;Nealy;Charles;999289;42;03/20/2007;Black;Dallas
+184;387;Last Statement;Nichols;Joseph;709;45;03/07/2007;Black;Harris
+185;386;Last Statement;Perez;Robert;999322;48;03/06/2007;Hispanic;Dallas
+186;385;Last Statement;Miller;Donald;728;44;02/27/2007;White;Harris
+187;384;Last Statement;Anderson;Newton;999355;30;02/22/2007;White;Smith
+188;383;Last Statement;Jackson;James;999272;47;02/07/2007;Black;Harris
+189;382;Last Statement;Swift;Christopher;999496;31;01/30/2007;White;Denton
+190;381;Last Statement;Moore;Johnathan;999216;32;01/17/2007;White;Bexar
+191;380;Last Statement;Granados;Carlos;999307;36;01/10/2007;Hispanic;Williamson
+192;379;Last Statement;Shannon;Willie;999086;30;11/08/2006;Black;Harris
+193;378;Last Statement;Jackson;Donell;999206;33;11/01/2006;Black;Harris
+194;377;Last Statement;Summers;Gregory;999010;48;10/25/2006;White;Denton
+195;376;Last Statement;Matchett;Farley;999060;43;09/12/2006;Black;Harris
+196;375;Last Statement;Frazier;Derrick;999284;29;08/31/2006;Black;Refugio
+197;374;Last Statement;Fuller;Justin;999266;27;08/24/2006;Black;Smith
+198;373;Last Statement;Hinojosa;Richard;999246;43;08/17/2006;Hispanic;Bexar
+199;372;Last Statement;Wyatt, Jr.;William;999255;41;08/03/2006;Black;Bowie
+200;371;Last Statement;Anderson;Robert;999084;40;07/20/2006;White;Potter
+201;370;Last Statement;Brown;Mauriceo;999234;31;07/19/2006;Black;Bexar
+202;369;Last Statement;O'Brien;Derrick;999131;31;07/11/2006;Black;Harris
+203;368;Last Statement;Resendiz;Angel;999356;45;06/27/2006;Hispanic;Harris
+204;367;Last Statement;Reese;Lamont;999374;28;06/20/2006;Black;Tarrant
+205;366;Last Statement;Titsworth;Timothy;999078;34;06/06/2006;White;Randall
+206;365;Last Statement;Aguilar;Jesus;999191;42;05/24/2006;Hispanic;Cameron
+207;364;Last Statement;Herron;Jermaine;999304;27;05/17/2006;Black;Refugio
+208;363;Last Statement;Wilson;Jackie;957;39;05/04/2006;White;Dallas
+209;362;Last Statement;Kincy;Kevin;999179;38;03/29/2006;Black;Harris
+210;361;Last Statement;Salazar, Jr.;Robert;999303;27;03/22/2006;Hispanic;Lubbock
+211;360;Last Statement;Hughes;Tommie;999273;31;03/15/2006;Black;Dallas
+212;359;Last Statement;Smith, Jr.;Clyde;999088;32;02/15/2006;Black;Harris
+213;358;Last Statement;Neville, Jr.;Robert;999293;31;02/08/2006;White;Tarrant
+214;357;Last Statement;Elizalde, Jr.;Jaime;999230;34;01/31/2006;Hispanic;Harris
+215;356;Last Statement;Dudley;Marion;999136;33;01/25/2006;Black;Harris
+216;355;Last Statement;Thomas;Shannon;999213;34;11/16/2005;Black;Harris
+217;354;Last Statement;Rowell;Robert;999104;50;11/15/2005;White;Harris
+218;353;Last Statement;Thacker;Charles;999103;37;11/09/2005;White;Harris
+219;352;Last Statement;White;Melvin;999317;55;11/03/2005;White;Pecos
+220;351;Last Statement;Ramirez;Luis;999309;42;10/20/2005;Hispanic;Tom Green
+221;350;Last Statement;Howard;Ronald;999069;32;10/06/2005;Black;Travis
+222;349;Last Statement;Newton;Frances;922;40;09/14/2005;Black;Harris
+223;348;Last Statement;Shields;Robert;999166;30;08/23/2005;White;Galveston
+224;347;Last Statement;Sterling;Gary;931;38;08/10/2005;Black;Navarro
+225;346;Last Statement;Martinez;David;999288;29;07/28/2005;Hispanic;Travis
+226;345;Last Statement;Martinez;Alexander;999438;28;06/07/2005;Hispanic;Harris
+227;344;Last Statement;Cartwright;Richard;999224;31;05/19/2005;White;Nueces
+228;343;Last Statement;Wolfe;Bryan;999079;44;05/18/2005;Black;Jefferson
+229;342;Last Statement;Pursley;Lonnie;999294;43;05/03/2005;White;Polk
+230;341;Last Statement;Roberts;Douglas;999218;42;04/20/2005;White;Kendall
+231;340;Last Statement;Hopper;George;999037;49;03/08/2005;White;Dallas
+232;339;Last Statement;Bagwell;Dennis;999209;41;02/17/2005;White;Atascosa
+233;338;Last Statement;Kunkle;Troy;784;38;01/25/2005;White;Nueces
+234;337;Last Statement;Porter;James;999378;33;01/04/2005;White;Bowie
+235;336;Last Statement;Fuentes;Anthony;999215;30;11/17/2004;Hispanic;Harris
+236;335;Last Statement;McWilliams;Frederick;999242;30;11/10/2004;Black;Harris
+237;334;Last Statement;McCullum;Demarco;999180;30;11/09/2004;Black;Harris
+238;333;Last Statement;Morrow;Robert;999244;47;11/04/2004;White;Liberty
+239;332;Last Statement;Morris;Lorenzo;999038;52;11/02/2004;Black;Harris
+240;331;Last Statement;Green;Dominique;999068;30;10/26/2004;Black;Harris
+241;330;Last Statement;Morrow;Ricky;753;53;10/20/2004;White;Dallas
+242;329;Last Statement;Aldrich;Donald;999113;39;10/12/2004;White;Kerr
+243;328;Last Statement;Miniel;Peter;920;42;10/06/2004;Hispanic;Harris
+244;327;Last Statement;Green;Edward;999073;30;10/05/2004;Black;Harris
+245;326;Last Statement;Flores;Andrew;999100;32;09/21/2004;Hispanic;Bexar
+246;325;Last Statement;Allridge, III;James;870;41;08/26/2004;Black;Tarrant
+247;324;Last Statement;Busby;Jasen;999201;28;08/25/2004;White;Cherokee
+248;323;Last Statement;Harris;David;827;43;06/30/2004;White;Jefferson
+249;322;Last Statement;Patterson;Kelsey;999065;50;05/18/2004;Black;Anderson
+250;321;Last Statement;Cotton;Marcus;999252;29;03/03/2004;Black;Harris
+251;320;Last Statement;Willingham;Cameron;999041;36;02/17/2004;White;Navarro
+252;319;Last Statement;Hopkins;Bobby;999101;36;02/12/2004;Black;Johnson
+253;318;Last Statement;Lagrone;Edward;999083;46;02/11/2004;Black;Tarrant
+254;317;Last Statement;Vickers;Billy;999087;58;01/28/2004;White;Lamar
+255;316;Last Statement;Zimmerman;Kevin;977;42;01/21/2004;White;Jefferson
+256;315;Last Statement;Bruce;Kenneth;999023;32;01/14/2004;Black;Collin
+257;314;Last Statement;Matthews;Ynobe;999387;27;01/06/2004;Black;Brazos
+258;313;Last Statement;Murphy;Ivan;989;38;12/04/2003;White;Grayson
+259;312;Last Statement;Duncan;Richard;999153;61;12/03/2003;White;Harris
+260;311;Last Statement;Henry;Robert;999129;41;11/20/2003;White;San Patricio
+261;310;Last Statement;Hayes;Larry;999358;54;09/10/2003;White;Montgomery
+262;309;Last Statement;Janecka;Allen;684;53;07/24/2003;White;Harris
+263;308;Last Statement;Ransom;Cedric;999050;29;07/23/2003;Black;Tarrant
+264;307;Last Statement;Black, Sr.;Christopher;999277;43;07/09/2003;Black;Bell
+265;306;Last Statement;Crawford;Hilton;999200;64;07/02/2003;White;Montgomery
+266;305;Last Statement;Johnson;Kia;999139;38;06/11/2003;Black;Bexar
+267;304;Last Statement;Jacobs;Bruce;876;56;05/15/2003;White;Dallas
+268;303;Last Statement;Vaughn;Roger;999029;48;05/06/2003;White;Wilbarger
+269;302;Last Statement;Chavez;Juan;999186;34;04/22/2003;Hispanic;Dallas
+270;301;Last Statement;Colburn;James;999169;43;03/26/2003;White;Montgomery
+271;300;Last Statement;Clay;Keith;999238;35;03/20/2003;Black;Harris
+272;299;Last Statement;Cook;Bobby;999094;41;03/11/2003;White;Anderson
+273;298;Last Statement;Williams;Richard;999251;33;02/25/2003;Black;Harris
+274;297;Last Statement;Dunn, Jr.;Henry;999165;28;02/06/2003;Black;Smith
+275;296;Last Statement;Elliott;John;861;42;02/04/2003;Hispanic;Travis
+276;295;Last Statement;Riddle;Granville;965;33;01/30/2003;White;Potter
+277;294;Last Statement;Dinkins;Richard;999022;40;01/29/2003;White;Jefferson
+278;293;Last Statement;Curry;Alva;999080;32;01/28/2003;Black;Travis
+279;292;Last Statement;Lookingbill;Robert;990;37;01/22/2003;White;Hidalgo
+280;291;Last Statement;Baltazar;John;999257;30;01/15/2003;Hispanic;Nueces
+281;290;Last Statement;Gallamore;Samuel;999090;31;01/14/2003;White;Comal
+282;289;Last Statement;Collier;James;999190;55;12/11/2002;White;Wichita
+283;288;Last Statement;Rojas;Leonard;999194;52;12/04/2002;Hispanic;Johnson
+284;287;Last Statement;Chappell;William;960;66;11/20/2002;White;Tarrant
+285;286;Last Statement;Ogan;Craig;979;47;11/19/2002;White;Harris
+286;285;Last Statement;Powell;James;999001;56;10/01/2002;White;Newton
+287;284;Last Statement;King;Calvin;999152;48;09/25/2002;Black;Jefferson
+288;283;Last Statement;Mays;Rex;999172;42;09/24/2002;White;Harris
+289;282;Last Statement;Shamburger;Ron;999167;30;09/18/2002;White;Brazos
+290;281;Last Statement;Patrick;Jessie;975;44;09/17/2002;White;Dallas
+291;280;Last Statement;Walker;Tony;999082;36;09/10/2002;Black;Morris
+292;279;Last Statement;Patterson;Toronto;999178;24;08/28/2002;Black;Dallas
+293;278;Last Statement;Etheridge;Gary;986;38;08/20/2002;White;Brazoria
+294;277;Last Statement;Medina;Javier;944;33;08/14/2002;Hispanic;Dallas
+295;276;Last Statement;Jones;T.J.;999133;25;08/08/2002;Black;Gregg
+296;275;Last Statement;Kutzner;Richard;999227;59;08/07/2002;White;Montgomery
+297;274;Last Statement;Williams;Jeffrey;999154;30;06/26/2002;Black;Harris
+298;273;Last Statement;Coulson;Robert;999115;34;06/25/2002;White;Harris
+299;272;Last Statement;Reneau;Daniel;999223;27;06/13/2002;White;Gillespie
+300;271;Last Statement;Baker, Jr.;Stanley;999157 ;35 ;05/30/2002;White;Brazos 
+301;270;Last Statement;Beazley;Napoleon;999141 ;25 ;05/28/2002;Black;Smith 
+302;269;Last Statement;Martinez;Johnny;999089 ;29 ;05/22/2002;Hispanic;Nueces 
+303;268;Last Statement;Styron;Ronford;999124 ;32;05/16/2002;White;Liberty 
+304;267;Last Statement;Reeves;Reginald;999119 ;28 ;05/09/2002;Black;Red River 
+305;266;Last Statement;Hernandez;Rodolfo;807 ;54 ;04/30/2002;Hispanic;Comal 
+306;265;Last Statement;Casey;Gerald;999013 ;47 ;04/18/2002;White;Montgomery 
+307;264;Last Statement;Burns;William;692 ;43 ;04/11/2002;Black;Bowie 
+308;263;Last Statement;Santellan, Sr.;Jose;999140 ;40 ;04/10/2002;Hispanic;Kerr 
+309;262;Last Statement;Tigner;Gerald;999099 ;29 ;03/07/2002;Black;McLennan 
+310;261;Last Statement;Delk;Monty;900 ;35 ;02/28/2002;White;Anderson 
+311;260;Last Statement;Hafdahl, Sr.;Randall;826 ;48 ;01/31/2002;White;Randall 
+312;259;Last Statement;Broussard;Windell;999064 ;41 ;01/30/2002;Black;Jefferson 
+313;258;Last Statement;Arnold;Jermarr;987 ;43 ;01/16/2002;Black;Nueces 
+314;257;Last Statement;Moore;Michael;999126 ;31 ;01/09/2002;White;Coryell 
+315;256;Last Statement;Cooks;Vincent;927 ;37 ;12/12/2001;Black;Dallas 
+316;255;Last Statement;Rudd;Emerson;936 ;31 ;11/15/2001;Black;Dallas 
+317;254;Last Statement;Tucker;Jeffery;952 ;41 ;11/14/2001;White;Parker 
+318;253;Last Statement;Mitchell;Gerald;838 ;33 ;10/22/2001;Black;Harris 
+319;252;Last Statement;Knox;James;823 ;50 ;09/18/2001;White;Galveston 
+320;251;Last Statement;Doughtie;Jeffery;999106 ;39 ;08/16/2001;White;Nueces 
+321;250;Last Statement;Hill;Mack;961 ;47 ;08/08/2001;White;Lubbock 
+322;249;Last Statement;Wilkens;James;897 ;39 ;07/11/2001;White;Smith 
+323;248;Last Statement;Richardson;Miguel;691;46;06/26/2001;Black;Bexar
+324;247;Last Statement;Wheat;John;999222;57;06/13/2001;White;Tarrant
+325;246;Last Statement;Goff;David;999015;31;04/25/2001;Black;Tarrant
+326;245;Last Statement;Massey;Jason;999121;28;04/03/2001;White;Ellis
+327;244;Last Statement;Dowthitt;Dennis;999047;55;03/07/2001;White;Montgomery
+328;243;Last Statement;Hernandez;Adolph;978;50;02/08/2001;Hispanic;Lubbock
+329;242;Last Statement;Alexander;Caruthers;704;52;01/29/2001;Black;Bexar
+330;241;Last Statement;Goodwin;Alvin;879;37;01/18/2001;White;Montgomery
+331;240;Last Statement;Clark;Jack;994;37;01/09/2001;White;Lubbock
+332;239;Last Statement;Jones;Claude;980;60;12/07/2000;White;San Jacinto
+333;238;Last Statement;Hittle;Daniel;981;50;12/06/2000;White;Dallas
+334;237;Last Statement;Miller;Garry;947;33;12/05/2000;White;Jones
+335;236;Last Statement;Chambers;Tony;999009;32;11/15/2000;Black;Smith
+336;235;Last Statement;Lawton;Stacey;999066;31;11/14/2000;Black;Smith
+337;234;Last Statement;Flores;Miguel;983;31;11/09/2000;Hispanic;Collin
+338;233;Last Statement;Dillingham;Jeffery;999071;27;11/01/2000;White;Wichita
+339;232;Last Statement;McGinn;Ricky;999150;43;09/27/2000;White;Brown
+340;231;Last Statement;Caldwell;Jeffery;938;37;08/30/2000;Black;Dallas
+341;230;Last Statement;Gibbs;David;825;39;08/23/2000;White;Montgomery
+342;229;Last Statement;Jones;Richard;882;40;08/22/2000;White;Tarrant
+343;228;Last Statement;Satterwhite;John;651;53;08/16/2000;Black;Bexar
+344;227;Last Statement;Cruz;Oliver;954;33;08/09/2000;Hispanic;Bexar
+345;226;Last Statement;Roberson;Brian;886;36;08/09/2000;Black;Dallas
+346;225;Last Statement;Soria;Juan;837;33;07/26/2000;Hispanic;Tarrant
+347;224;Last Statement;Joiner;Orien;902;50;07/12/2000;White;Lubbock
+348;223;Last Statement;San Miguel;Jessy;999008;28;06/29/2000;Hispanic;Dallas
+349;222;Last Statement;Graham;Gary;696;39;06/22/2000;Black;Harris
+350;221;Last Statement;Nuncio;Paul;999158;32;06/15/2000;Hispanic;Hale
+351;220;Last Statement;Burks;John;949;44;06/14/2000;Black;McLennan
+352;219;Last Statement;Mason;Thomas;999035;48;06/12/2000;White;Smith
+353;218;Last Statement;Carter;Robert;999091;34;05/31/2000;Black;Bastrop
+354;217;Last Statement;Clayton;James;921;33;05/25/2000;Black;Taylor
+355;216;Last Statement;Foster;Richard;815;47;05/24/2000;White;Parker
+356;215;Last Statement;Richardson;James;867;32;05/23/2000;Black;Navarro
+357;214;Last Statement;McBride;Michael;903;38;05/11/2000;White;Lubbock
+358;213;Last Statement;Kitchens;William;840;37;05/09/2000;White;Taylor
+359;212;Last Statement;Jackson;Tommy;821;43;05/04/2000;Black;Williamson
+360;211;Last Statement;Gribble;Timothy;929;36;03/15/2000;White;Galveston
+361;210;Last Statement;Wilkerson;Ponchai;999011;28;03/14/2000;Black;Harris
+362;209;Last Statement;Barnes, Jr.;Odell;998;31;03/01/2000;Black;Lubbock
+363;208;Last Statement;Beets;Betty;810;62;02/24/2000;White;Henderson
+364;207;Last Statement;Goss;Cornelius;912;38;02/23/2000;Black;Dallas
+365;206;Last Statement;Moreland;James;741;39;01/27/2000;White;Henderson
+366;205;Last Statement;McGinnis;Glen;999039;27;01/25/2000;Black;Montgomery
+367;204;Last Statement;Hughes, Jr.;Billy;556;47;01/24/2000;White;Matagorda
+368;203;Last Statement;Robison;Larry;748;42;01/21/2000;White;Tarrant
+369;202;Last Statement;Hicks;David;930;38;01/20/2000;Black;Freestone
+370;201;Last Statement;Goodman;Spencer;999031;31;01/18/2000;White;Fort Bend
+371;200;Last Statement;Heiselbetz, Jr.;Earl;999014;48;01/12/2000;White;Sabine
+372;199;Last Statement;Felder, Jr.;Sammie;550;54;12/15/1999;Black;Harris
+373;198;Last Statement;Atworth;Robert;999199;30;12/14/1999;White;Dallas
+374;197;Last Statement;Beathard;James;785;42;12/09/1999;White;Trinity
+375;196;Last Statement;Long;David;862;46;12/08/1999;White;Dallas
+376;195;Last Statement;Gutierrez;Jose;970;39;11/18/1999;Hispanic;Brazos
+377;194;Last Statement;Lamb;John;734;42;11/17/1999;White;Hunt
+378;193;Last Statement;Jennings;Desmond;999161;28;11/16/1999;Black;Tarrant
+379;192;Last Statement;Cantu, Jr.;Domingo;924;31;10/28/1999;Hispanic;Dallas
+380;191;Last Statement;McFadden;Jerry;875;51;10/14/1999;White;Upshur
+381;190;Last Statement;Crane;Alvin;888;41;10/12/1999;White;Denton
+382;189;Last Statement;Smith;Richard;999116;43;09/21/1999;White;Harris
+383;188;Last Statement;Davis;William;614;42;09/14/1999;Black;Harris
+384;187;Last Statement;Barnes;Willis;935;51;09/10/1999;Black;Harris
+385;186;Last Statement;Jones;Raymond;959;39;09/01/1999;Black;Jefferson
+386;185;Last Statement;Trevino, Jr.;Joe;767;37;08/18/1999;Hispanic;Tarrant
+387;184;Last Statement;Earhart;James;905;56;08/11/1999;White;Lee
+388;183;Last Statement;Dunn;Kenneth;675;39;08/10/1999;Black;Harris
+389;182;Last Statement;Boyd;Charles;891;39;08/05/1999;Black;Dallas
+390;181;Last Statement;Blackmon;Ricky;893;41;08/04/1999;White;Shelby
+391;180;Last Statement;Fuller;Tyrone;934;35;07/07/1999;Black;Grayson
+392;179;Last Statement;Tuttle;Charles;999183;35;07/01/1999;White;Smith
+393;178;Last Statement;Faulder;Joseph;580;61;06/17/1999;White;Gregg
+394;177;Last Statement;Little;William;788;38;06/01/1999;White;Liberty
+395;176;Last Statement;Coleman;Clydell;968;62;05/05/1999;Black;McLennan
+396;175;Last Statement;De La Cruz;Jose;908;31;05/04/1999;Hispanic;Nueces
+397;174;Last Statement;Foust;Aaron;999268;26;04/28/1999;White;Tarrant
+398;173;Last Statement;White;Excell;511;61;03/30/1999;White;Collin
+399;172;Last Statement;Rector;Charles;721;44;03/26/1999;Black;Travis
+400;171;Last Statement;Green;Norman;805;38;02/24/1999;Black;Bexar
+401;170;Last Statement;Cantu;Andrew;999;30;02/16/1999;Hispanic;Taylor
+402;169;Last Statement;Barber;Danny;673;43;02/11/1999;White;Dallas
+403;168;Last Statement;Cordova;George;706;39;02/10/1999;Hispanic;Bexar
+404;167;Last Statement;Vega;Martin;932;52;01/26/1999;Hispanic;Caldwell
+405;166;Last Statement;Farris;Troy;831;36;01/13/1999;White;Tarrant
+406;165;Last Statement;Moody;John;933;46;01/05/1999;White;Taylor
+407;164;Last Statement;Meanes;James;689;42;12/15/1998;Black;Harris
+408;163;Last Statement;Emery;Jeff;830;49;12/08/1998;White;Brazos
+409;162;Last Statement;Corwin;Daniel;969;40;12/07/1998;White;Montgomery
+410;161;Last Statement;McDuff;Kenneth;999055;52;11/17/1998;White;Harris
+411;160;Last Statement;Nobles;Jonathan;885;37;10/07/1998;White;Travis
+412;159;Last Statement;Cruz;Javier;999061;41;10/01/1998;Hispanic;Bexar
+413;158;Last Statement;Castillo;David;770;43;09/23/1998;Hispanic;Hidalgo
+414;157;Last Statement;Teague, Jr.;Delbert;849;35;09/09/1998;White;Tarrant
+415;156;Last Statement;Camacho, Jr.;Genaro;972;43;08/26/1998;Hispanic;Dallas
+416;155;Last Statement;Narvaiz;Leopoldo;923;30;06/26/1998;Hispanic;Bexar
+417;154;Last Statement;Pyles;Johnny;724;40;06/15/1998;White;Dallas
+418;153;Last Statement;Boggess;Clifford;887;32;06/11/1998;White;Clay
+419;152;Last Statement;Muniz;Pedro;575;41;05/19/1998;Hispanic;Williamson
+420;151;Last Statement;Carter;Robert;708;34;05/18/1998;Black;Harris
+421;150;Last Statement;McFarland;Frank;963;34;04/29/1998;White;Tarrant
+422;149;Last Statement;Gosch;Lesley;842;42;04/24/1998;White;Victoria
+423;148;Last Statement;Cannon;Joseph;634;38;04/22/1998;White;Bexar
+424;147;Last Statement;Hogue;Jerry;660;47;03/11/1998;White;Tarrant
+425;146;Last Statement;Renfro;Steven;999229;40;02/09/1998;White;Harrison
+426;145;Last Statement;Tucker;Karla;777;38;02/03/1998;White;Harris
+427;144;Last Statement;Lockhart;Michael;917;37;12/09/1997;White;Bexar
+428;143;Last Statement;Livingston;Charlie;802;35;11/21/1997;Black;Harris
+429;142;Last Statement;Sharp;Michael;740;43;11/19/1997;White;Crockett
+430;141;Last Statement;Fuller;Aaron;964;30;11/06/1997;White;Dawson
+431;140;Last Statement;Lauti;Aua;843;43;11/04/1997;Other;Harris
+432;139;Last Statement;Ransom;Kenneth;772;34;10/28/1997;Black;Harris
+433;138;Last Statement;Green;Ricky;984;36;10/08/1997;White;Tarrant
+434;137;Last Statement;Adanandus;Dwight;940;41;10/01/1997;Black;Bexar
+435;136;Last Statement;Cockrum;John;854;38;09/30/1997;White;Bowie
+436;135;Last Statement;Stone;Benjamin;999187;45;09/25/1997;White;Nueces
+437;134;Last Statement;Turner;Jessel;895;37;09/22/1997;Black;Harris
+438;133;Last Statement;Davis;James;786;34;09/09/1997;Black;Travis
+439;132;Last Statement;West, Jr.;Robert;731;35;07/29/1997;White;Harris
+440;131;Last Statement;Montoya;Irineo;847;29;06/18/1997;Hispanic;Cameron
+441;130;Last Statement;Johnson;Eddie;898;44;06/17/1997;Black;Aransas
+442;129;Last Statement;Stoker;David;892;38;06/16/1997;White;Hale
+443;128;Last Statement;Behringer;Earl;914;33;06/11/1997;White;Tarrant
+444;127;Last Statement;Losada;Davis;798;32;06/04/1997;Hispanic;Cameron
+445;126;Last Statement;Johnson, Jr.;Dorsie;850;30;06/04/1997;Black;Scurry
+446;125;Last Statement;Harris;Kenneth;901;34;06/03/1997;Black;Harris
+447;124;Last Statement;Rogers;Patrick;816;33;06/02/1997;Black;Collin
+448;123;Last Statement;Madden;Robert;822;33;05/28/1997;White;Leon
+449;122;Last Statement;White;Larry;640;47;05/22/1997;White;Harris
+450;121;Last Statement;Callins;Bruce;717;37;05/21/1997;Black;Tarrant
+451;120;Last Statement;Lackey;Clarence;591;42;05/20/1997;White;Tom Green
+452;119;Last Statement;Drinkard;Richard;846;39;05/19/1997;White;Harris
+453;118;Last Statement;Belyeu;Clifton;841;38;05/16/1997;White;McLennan
+454;117;Last Statement;Westley;Anthony;797;36;05/13/1997;Black;Harris
+455;116;Last Statement;Washington;Terry;884;33;05/06/1997;Black;Walker
+456;115;Last Statement;Baldree;Ernest;855;55;04/29/1997;White;Navarro
+457;114; Last Statement;Boyle;Benjamin;853;53;04/21/1997;White;Potter
+458;113;Last Statement;Gentry;Kenneth;760;36;04/16/1997;White;Denton
+459;112;Last Statement;Woods;Billy;552;50;04/14/1997;White;Harris
+460;111;Last Statement;Spence;David;773;40;04/03/1997;White;McLennan
+461;110;Last Statement;Herman;David;999003;39;04/02/1997;White;Tarrant
+462;109;Last Statement;Barefield;John;844;32;03/12/1997;Black;Harris
+463;108;Last Statement;Brimage, Jr.;Richard;899;42;02/10/1997;White;Kleberg
+464;107;Last Statement;Gonzales, Jr.;Joe;999177;36;09/18/1996;Hispanic;Potter
+465;106;Last Statement;Granviel;Kenneth;533;45;02/27/1996;Black;Tarrant
+466;105;Last Statement;Jenkins;Leo;967;38;02/09/1996;White;Harris
+467;104;Last Statement;Briddle;James;711;40;12/12/1995;White;Harris
+468;103;Last Statement;Banda;Esequel;863;31;12/11/1995;Hispanic;Hamilton
+469;102;Last Statement;Vuong;Hai;904;40;12/07/1995;Other;Jefferson
+470;101;Last Statement;Amos;Bernard;926;33;12/06/1995;Black;Dallas
+471;100;Last Statement;Lane;Harold;745;50;10/04/1995;White;Dallas
+472;99;Last Statement;Johnson;Carl;633;40;09/19/1995;Black;Harris
+473;98;Last Statement;Sattiewhite;Vernon;857;40;08/15/1995;Black;Bexar
+474;97;Last Statement;Hammond;Karl;865;31;06/21/1995;Black;Bexar
+475;96;Last Statement;Fearance;John;626;41;06/20/1995;Black;Dallas
+476;95; Last Statement;Allridge;Ronald;818;35;06/08/1995;Black;Tarrant
+477;94;Last Statement;Mann;Fletcher;705;34;06/01/1995;White;Dallas
+478;93; Last Statement;Mays;Noble;674;42;04/06/1995;White;Wilbarger
+479;92;Last Statement;Hawkins;Samuel;590;52;02/21/1995;Black;Lubbock
+480;91;Last Statement;Gardner;Billy;751;52;02/16/1995;White;Dallas
+481;90;Last Statement;Motley;Jeffery;789;29;02/07/1995;White;Harris
+482;89;Last Statement;Williams;Willie;677;38;01/31/1995;Black;Harris
+483;88;Last Statement;Russell, Jr.;Clifton;658;38;01/31/1995;White;Taylor
+484;87;Last Statement;Marquez;Mario;776;36;01/17/1995;Hispanic;Bexar
+485;86;Last Statement;Jacobs;Jesse;872;44;01/04/1995;White;Walker
+486;85;Last Statement;Kinnamon;Raymond;808;53;12/11/1994;White;Harris
+487;84;Last Statement;Clark, Jr.;Herman;715;48;12/06/1994;Black;Harris
+488;83;Last Statement;Bridge;Warren;668;34;11/22/1994;White;Galveston
+489;82;Last Statement;Williams;Walter;722;32;10/05/1994;Black;Bexar
+490;81;Last Statement;Lott;George;999058;47;09/20/1994;White;Potter
+491;80;Last Statement;Gutierrez;Jessie;971;29;09/16/1994;Hispanic;Brazos
+492;79;Last Statement;Drew;Robert;755;35;08/02/1994;White;Harris
+493;78;Last Statement;Crank;Denton;803;38;06/14/1994;White;Harris
+494;77;Last Statement;Nethery;Stephen;698;33;05/27/1994;White;Dallas
+495;76; Last Statement;Rougeau;Paul;603;46;05/03/1994;Black;Harris
+496;75;Last Statement;Anderson;Larry;733;41;04/26/1994;White;Harris
+497;74;Last Statement;Beavers;Richard;916;39;04/04/1994;White;Harris
+498;73;Last Statement;Webb;Freddie;848;33;03/31/1994;Black;Nueces
+499;72;Last Statement;Barnard;Harold;683;51;02/02/1994;White;Galveston
+500;71;Last Statement;Phillips;Clifford;723;59;12/15/1993;Black;Harris
+501;70;Last Statement;Cook;Anthony;918;34;11/10/1993;White;Milam
+502;69;Last Statement;Bonham;Antonio;700;33;09/28/1993;Black;Harris
+503;68;Last Statement;James;Johnny;839;39;09/03/1993;White;Chambers
+504;67;Last Statement;Wilkerson;Richard;756;29;08/31/1993;Black;Harris
+505;66;Last Statement;Cantu;Ruben;804;26;08/24/1993;Hispanic;Bexar
+506;65;Last Statement;Kelly;Carl;688;34;08/20/1993;Black;McLennan
+507;64;Last Statement;Holland;David;820;58;08/12/1993;White;Jefferson
+508;63;Last Statement;Jernigan;Joseph;699;39;08/05/1993;White;Navarro
+509;62;Last Statement;Harris;Danny;649;32;07/30/1993;Black;Brazos
+510;61;Last Statement;Harris;Curtis;637;31;07/01/1993;Black;Brazos
+511;60;Last Statement;Duff-Smith;Markum;694;46;06/29/1993;White;Harris
+512;59;Last Statement;Sawyers;John;742;38;05/18/1993;White;Harris
+513;58;Last Statement;Herrera;Leonel;702;45;05/12/1993;Hispanic;Cameron
+514;57;Last Statement;Stewart;Darryl;664;38;05/04/1993;Black;Harris
+515;56; Last Statement;Montoya;Ramon;737;38;03/25/1993;Hispanic;Dallas
+516;55; Last Statement;Santana;Carlos;695;40;03/23/1993;Hispanic;Harris
+517;54;Last Statement;Lincecum;Kavin;832;29;12/10/1992;Black;Brazoria
+518;53;Last Statement;Griffin;Jeffery;647;37;11/19/1992;Black;Harris
+519;52;Last Statement;Demouchette;James;572;37;09/22/1992;Black;Harris
+520;51;Last Statement;Johnson;Curtis;761;38;08/11/1992;Black;Harris
+521;50;Last Statement;Black, Jr.;Robert;819;45;05/22/1992;White;Brazos
+522;49;Last Statement;Romero, Jr.;Jesus;801;27;05/20/1992;Hispanic;Cameron
+523;48;Last Statement;May;Justin;783;46;05/07/1992;White;Brazoria
+524;47;Last Statement;White;Billy;585;34;04/23/1992;Black;Harris
+525;46;Last Statement;Ellis;Edward;749;38;03/03/1992;White;Harris
+526;45;Last Statement;Clark;David;874;32;02/28/1992;White;Brazos
+527;44;Last Statement;Garrett;Johnny;729;28;02/11/1992;White;Potter
+528;43; Last Statement;Cordova;Joe;730;39;01/22/1992;Hispanic;Harris
+529;42;Last Statement;Green;G.W.;576;49;11/12/1991;White;Montgomery
+530;41;Last Statement;Russell;James;579;42;09/19/1991;Black;Fort Bend
+531;40;Last Statement;Bird;Jerry;512;54;06/17/1991;White;Cameron
+532;39;Last Statement;Cuevas;Ignacio;526;59;05/23/1991;Hispanic;Harris
+533;38;Last Statement;Buxton;Lawrence;743;38;02/26/1991;Black;Harris
+534;37;Last Statement;Derrick;Mikel;701;33;07/18/1990;White;Harris
+535;36;Last Statement;Smith;James;763;37;06/26/1990;Black;Harris
+536;35;Last Statement;Anderson;Johnny;732;30;05/17/1990;White;Jefferson
+537;34;Last Statement;Butler;Jerome;852;54;04/21/1990;Black;Harris
+538;33;Last Statement;De Luna;Carlos;744;27;12/07/1989;Hispanic;Nueces
+539;32;Last Statement;Paster;James;752;44;09/20/1989;White;Harris
+540;31;Last Statement;McCoy;Stephen;769;40;05/24/1989;White;Harris
+541;30;Last Statement;King;Leon;624;44;03/22/1989;Black;Harris
+542;29; Last Statement;Landry, Sr.;Raymond;738;39;12/13/1988;Black;Harris
+543;28;Last Statement;Franklin;Donald;546;37;11/03/1988;Black;Nueces
+544;27;Last Statement;Streetman;Robert;746;27;01/07/1988;White;Hardin
+545;26;Last Statement;Starvaggi;Joseph;586;34;09/10/1987;White;Montgomery
+546;25;Last Statement;Thompson;John;610;32;07/08/1987;White;Bexar
+547;24; Last Statement;Johnson;Elliot;739;38;06/24/1987;Black;Jefferson
+548;23;Last Statement;Williams;Anthony;619;27;05/28/1987;Black;Harris
+549;22;Last Statement;Moreno;Eliseo;759;27;03/04/1987;Hispanic;Fort Bend
+550;21;Last Statement;Hernandez;Ramon;667;44;01/30/1987;Hispanic;El Paso
+551;20;Last Statement;Andrade;Richard;774;25;12/18/1986;Hispanic;Nueces
+552;19;Last Statement;Evans;Michael;608;30;12/04/1986;Black;Dallas
+553;18;Last Statement;Wicker;Chester;678;37;08/26/1986;White;Galveston
+554;17;Last Statement;Smith;Larry;643;30;08/22/1986;Black;Dallas
+555;16;Last Statement;Woolls;Randy;646;36;08/20/1986;White;Tom Green
+556;15;Last Statement;Brock;Kenneth;522;37;06/19/1986;White;Harris
+557;14;Last Statement;Esquivel;Rudy;606;50;06/09/1986;Hispanic;Harris
+558;13;Last Statement;Pinkerton;Jay;686;24;05/15/1986;White;Nueces
+559;12; Last Statement;Barney;Jeffery;714;28;04/16/1986;White;Harris
+560;11;Last Statement;Bass;Charles;662;30;03/12/1986;White;Harris
+561;10;Last Statement;Rumbaugh;Charles;555;28;09/11/1985;White;Potter
+562;9;Last Statement;Porter;Henry;551;43;07/09/1985;Hispanic;Tarrant
+563;8;Last Statement;Milton;Charles;628;34;06/25/1985;Black;Tarrant
+564;7;Last Statement;De La Rosa;Jesse;713;24;05/15/1985;Hispanic;Bexar
+565;6;Last Statement;Morin;Stephen;712;34;03/13/1985;White;Jefferson
+566;5;Last Statement;Skillern;Doyle;518;49;01/16/1985;White;Lubbock
+567;4;Last Statement;Barefoot;Thomas;621;39;10/30/1984;White;Bell
+568;3;Last Statement;O'Bryan;Ronald;529;39;03/31/1984;White;Harris
+569;2;Last Statement;Autry;James;670;29;03/14/1984;White;Jefferson
+570;1;Last Statement;Brooks, Jr.;Charlie;592;40;12/07/1982;Black;Tarrant
